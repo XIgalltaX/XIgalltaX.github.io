@@ -8,10 +8,13 @@
         <author>
           <name>Michael</name>
         </author>
-        <description></description>
+        <description>What\&#39;s past is prologue.</description>
         <language>en</language>
         <pubDate>Thu, 18 Apr 2024 14:27:42 +0800</pubDate>
         <lastBuildDate>Thu, 18 Apr 2024 14:27:42 +0800</lastBuildDate>
+        <category term="PHYS" />
+        <category term="MATH" />
+        <category term="CS" />
         <item>
             <guid isPermalink="true">http://xigalltax.github.io/2024/04/18/TestDraft/</guid>
             <title>TestDraft</title>
