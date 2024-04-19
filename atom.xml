@@ -8,10 +8,18 @@
     <author>
       <name>Michael</name>
     </author>
-    <updated>2024-04-19T07:59:23.000Z</updated>
+    <updated>2024-04-19T08:27:02.000Z</updated>
     <category term="PHYS" />
     <category term="MATH" />
     <category term="CS" />
+    <entry>
+        <id>http://xigalltax.github.io/2024/04/19/About/</id>
+        <title>About</title>
+        <link rel="alternate" href="http://xigalltax.github.io/2024/04/19/About/"/>
+        <content type="html">&lt;p&gt;Hello!&lt;/p&gt;
+</content>
+        <updated>2024-04-19T08:27:02.000Z</updated>
+    </entry>
     <entry>
         <id>http://xigalltax.github.io/2024/04/19/Test/</id>
         <title>Test</title>

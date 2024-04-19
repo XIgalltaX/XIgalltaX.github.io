@@ -7,6 +7,14 @@
     "home_page_url": "http://XIgalltaX.github.io",
     "items": [
         {
+            "id": "http://xigalltax.github.io/2024/04/19/About/",
+            "url": "http://xigalltax.github.io/2024/04/19/About/",
+            "title": "About",
+            "date_published": "2024-04-19T08:27:02.000Z",
+            "content_html": "<p>Hello!</p>\n",
+            "tags": []
+        },
+        {
             "id": "http://xigalltax.github.io/2024/04/19/Test/",
             "url": "http://xigalltax.github.io/2024/04/19/Test/",
             "title": "Test",
